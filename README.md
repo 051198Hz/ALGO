@@ -60,16 +60,16 @@
 
 ## 필수 문제  
     
-2-5주간문제 디펜스   
-[테트로미노](https://www.acmicpc.net/problem/14500)  
-[게임 개발](https://www.acmicpc.net/problem/1516)  
+3-1주간문제 디펜스   
+[캐슬 디펜스](https://www.acmicpc.net/problem/17135)  
+[⚾](https://www.acmicpc.net/problem/17281)  
 
     
-[Puyo Puyo](https://www.acmicpc.net/problem/11559)  
-[별자리 만들기](https://www.acmicpc.net/problem/4386)  
+[최대 유량](https://www.acmicpc.net/problem/6086)  
+[체스판 다시 칠하기 2](https://www.acmicpc.net/problem/25682)  
     
-[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)  
-[괄호 추가하기](https://www.acmicpc.net/problem/16637)  
+[소코반](https://www.acmicpc.net/problem/4577)  
+[학회원](https://www.acmicpc.net/problem/3865)  
 
     
   
